@@ -4,9 +4,9 @@ import logo from '../assets/logo.svg'
 
 const Navbar = () => {
   return (
-    <div className='flex justify-between py-5'> 
+    <div className='flex justify-between py-4'> 
       <Link to={'/'}>
-        <img src={logo} alt="" className='w-28 sm:w-32 lg:w-40' />
+        <img src={logo} alt="" className='w-28 sm:w-32 lg:w-20' />
       </Link>
     </div>
   )
