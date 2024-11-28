@@ -4,7 +4,7 @@ const useHistory = () => {
   return (
     <div>
         <h1> useHistory page.</h1>
-    </div>
+6    </div>
   )
 }
 
